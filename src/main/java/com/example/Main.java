@@ -10,6 +10,8 @@ public class Main {
         // add a new int statement that declares a variable called "myNumber" 
         //and assigns it the value 5
         int myNumber = 5;
+        //ad a new println statement that prints the value of "myNumber"
+        System.out.println(myNumber);
     
     }
 }
