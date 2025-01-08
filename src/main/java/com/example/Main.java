@@ -12,6 +12,9 @@ public class Main {
         int myNumber = 5;
         //ad a new println statement that prints the value of "myNumber"
         System.out.println(myNumber);
+        // add a new String statement that declares a variable called "myString"
+        // and assigns it the value "Hello, World!"
+        String myString = "Hello, World!";
     
     }
 }
